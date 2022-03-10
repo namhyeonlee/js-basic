@@ -1,11 +1,11 @@
-## learn javscript basic grammer
+## Learning javscript basic grammer
 
-what I learned
-* callback
-* class-es6
-* class-extends
-* hoisting
-* this
-* timer
-* array
-* session storage
+
+- [x] callback
+- [x] class-es6
+- [x] class-extends
+- [x] hoisting
+- [x] this
+- [x] timer
+- [x] array
+- [x] session storage
